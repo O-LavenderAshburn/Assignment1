@@ -1,0 +1,27 @@
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\bin\Debug\Circuits.exe
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\bin\Debug\Circuits.pdb
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.exe
+D:\University\COMPX102\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.pdb
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\bin\Debug\Circuits.exe
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\bin\Debug\Circuits.pdb
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.exe
+D:\University\COMPX102\2021\Circuits2020\Circuits\Circuits\obj\Debug\Circuits.pdb
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.csprojAssemblyReference.cache
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.exe
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.pdb
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\bin\Debug\Circuits.exe
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\bin\Debug\Circuits.pdb
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\64225\Desktop\assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
